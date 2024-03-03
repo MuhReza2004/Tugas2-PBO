@@ -2,4 +2,4 @@ NAMA	: MUH. REZA
 NIM	: 13020220070
 Tugas 2
 
-Link: https://github.com/MuhReza2004/TUGAS-PBO
+Link: https://github.com/MuhReza2004/Tugas2-PBO
